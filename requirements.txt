@@ -1,0 +1,12 @@
+tensorflow==2.12.0
+Flask
+numpy
+requests
+pillow
+opencv-python
+# gunicorn
+python-dotenv
+azure-storage-blob
+
+gunicorn==21.2.0
+psycopg2-binary==2.9.9
